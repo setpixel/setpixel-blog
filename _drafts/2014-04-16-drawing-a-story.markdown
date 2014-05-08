@@ -20,6 +20,8 @@ solution
 
 [less emphasis on testing]
 
+zoinks
+
 Most creative processes are iterative. 
 
 In video game development, you start with an idea of what you want to create. Development of the game starts on day 1. As the game is built, there idea starts to firm. You lose time playing your own game. As the game starts to firm up, you bring in outside people to give their feedback. Even though your original idea is pretty true to what you've made, the controlled feedback from play testers is telling you that while promising, your game is just not fun.
