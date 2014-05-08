@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Charles Forman. Stuff I write down.</title>
+    <link>http://www.setpixel.com</link>
+    <description>Stuff Charles Forman writes.</description>
+    <pubDate>Tue, 15 Apr 2014 08:00:00 -0400</pubDate>
+    <item>
+      <title>Writing a screenplay in Fountain</title>
+      <link>http://www.setpixel.com/writing/writing-a-screenplay-in-fountain</link>
+      <description>&lt;p&gt;I am writing a screenplay in &lt;a href=&quot;http://fountain.io/&quot; target=&quot;_new&quot;&gt;Fountain&lt;/a&gt;. If you are writing a screenplay, I highly recommend using it. Fountain offers not only a great way to write a screenplay, but also flexibility to create new tools to help you conceptualize, visualize, and realize a really great story.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 15 Apr 2014 08:00:00 -0400</pubDate>
+      <guid>http://www.setpixel.com/writing/writing-a-screenplay-in-fountain</guid>
+      <dc:date>2014-04-15T08:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>How to contact Charles Forman</title>
+      <link>http://www.setpixel.com/contact/charles-forman</link>
+      <description>&lt;p&gt;I really want to hear from you! Just want to say hi? Great! Want to chat about ideas? I&amp;#39;d love that. In New York and you want to hang? Sounds good!&lt;/p&gt;
+</description>
+      <pubDate>Sun, 30 Mar 2014 08:00:00 -0400</pubDate>
+      <guid>http://www.setpixel.com/contact/charles-forman</guid>
+      <dc:date>2014-03-30T08:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Everything you wanted to know about Charles.</title>
+      <link>http://www.setpixel.com/about/charles-forman</link>
+      <description>&lt;p&gt;My name is Charles and I&amp;#39;ve been making stuff my whole life. I&amp;#39;m more of a creative person than a technical one. However, I&amp;#39;ve been accused at being good at both.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 30 Mar 2014 08:00:00 -0400</pubDate>
+      <guid>http://www.setpixel.com/about/charles-forman</guid>
+      <dc:date>2014-03-30T08:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Hey... wanna read my movie treatment?</title>
+      <link>http://www.setpixel.com/writing/wanna-read-my-treatment</link>
+      <description>&lt;p&gt;I have written a treatment that I could use your feedback on! If you’d like to read it, please email me: &lt;a href=&quot;mailto:charles@setpixel.com&quot;&gt;charles@setpixel.com&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Wed, 08 Jan 2014 07:00:00 -0500</pubDate>
+      <guid>http://www.setpixel.com/writing/wanna-read-my-treatment</guid>
+      <dc:date>2014-01-08T07:00:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>You should start playing with flying robots</title>
+      <link>http://www.setpixel.com/tech/you-should-start-playing-with-flying-robots</link>
+      <description>&lt;p&gt;Multirotor flying robots are more than just a new kind of toy. They represent the convergence of many pieces of tech, and a huge opportunity for innovation that will have application far beyond flying toys.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 09 Oct 2013 08:00:00 -0400</pubDate>
+      <guid>http://www.setpixel.com/tech/you-should-start-playing-with-flying-robots</guid>
+      <dc:date>2013-10-09T08:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>I’m making a movie.</title>
+      <link>http://www.setpixel.com/movies/im-making-a-movie</link>
+      <description>&lt;p&gt;After a lot of thought, I have decided to step down from my job so I can focus my energy on developing a movie. I know this seems like it comes out of left field to some people. However, I think most people will understand that while it’s crazy, I have to make movies for my 10 year old self.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 18 Sep 2013 08:00:00 -0400</pubDate>
+      <guid>http://www.setpixel.com/movies/im-making-a-movie</guid>
+      <dc:date>2013-09-18T08:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Why I make Picturelife...</title>
+      <link>http://www.setpixel.com/writing/why-i-make-picturelife</link>
+      <description>&lt;p&gt;Like most anyone else, I love my photos. They are incredibly valuable to me. Almost every other week, I hear horrible stories about people have lost their phones. The phone can be replaced but, the photos on it can never be. It&amp;#39;s gut wrenching. Even worse, people&amp;#39;s entire library of photos have been lost because their hard drive crashed. This should never happen to anyone.&lt;/p&gt;&lt;/p&gt;
+</description>
+      <pubDate>Fri, 22 Mar 2013 08:00:00 -0400</pubDate>
+      <guid>http://www.setpixel.com/writing/why-i-make-picturelife</guid>
+      <dc:date>2013-03-22T08:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>My Trip to the Mayo Clinic</title>
+      <link>http://www.setpixel.com/writing/my-trip-to-the-mayo-clinic</link>
+      <description>&lt;p&gt;After a couple of minor health issues, I decided to get my personal health in order. I decided to go to a three day intensive physical exam at the Mayo Clinic, the best hospital in the world. I left with more questions than answers.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 05 Mar 2013 07:00:00 -0500</pubDate>
+      <guid>http://www.setpixel.com/writing/my-trip-to-the-mayo-clinic</guid>
+      <dc:date>2013-03-05T07:00:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>Charles Forman is a professional dreamer of making the best things possible.</title>
+      <link>http://www.setpixel.com/about/charles-forman-is-a-dreamer</link>
+      <description>&lt;p&gt;I founded OMGPOP, a video game company, that developed Draw Something, and ultimately sold to Zynga. I have lived in a few great places: Chicago, Tokyo, Seoul, and New York City. Gawker has called me the most interesting new millionaire playboy in tech. In reality, I’m not all that slick with the ladies and whether or not I am interesting, is debatable. I am currently the founder and CEO of Picturelife, my most important work to date.&lt;/p&gt;
+</description>
+      <pubDate>Thu, 31 Jan 2013 07:00:00 -0500</pubDate>
+      <guid>http://www.setpixel.com/about/charles-forman-is-a-dreamer</guid>
+      <dc:date>2013-01-31T07:00:00-05:00</dc:date>
+    </item>
+    <dc:date>2014-04-15T08:00:00-04:00</dc:date>
+  </channel>
+</rss>

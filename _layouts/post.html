@@ -1,0 +1,141 @@
+---
+layout: default
+---
+<div class="title-page">
+  <div class="top-image">
+    <div class="image" style="background-image: url(/gfx/{{ page.bigimage }}.jpg);"></div>
+    <div class="shade"></div>
+    <div class="container">
+      <div class="article-cover">
+        <div class="ddd" style="max-width: 600px; padding-right: 30px;">
+          <header>
+            <p class="time-to-read"><span class="time"></span> <span class="date">{{ page.date | date: "%B %d, %Y" }}</span></p>
+            <h1 itemprop="name" name="title" class="post-title">{{ page.title }}&nbsp;</h1>
+            <div class="web-share">
+              <a class="share-button popup twitter" href="" style="top: 1px;"><i class="icon-twitter" style="font-size: 13px;"></i></a>
+              <a class="share-button popup facebook" href="" style="top: 2px;"><i class="icon-facebook-squared" style="font-size: 18px; top: 2px; position: relative;"></i></a>
+            </div>
+            <h2 name="subtitle" class="post-field subtitle post-subtitle">{{ page.subtitle }}</h2>
+
+            <div class="visible-768 mobile-share" >
+              <a class="share-button popup twitter" style="top: 1px;"><i class="icon-twitter" style="font-size: 13px;"></i></a>
+              <a class="share-button popup facebook" style="top: 2px;"><i class="icon-facebook-squared" style="font-size: 18px; top: 2px; position: relative;"></i></a>
+            </div>
+          </header>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="article-content">
+
+    {{ content }}
+
+    <span class="sidetop">
+      Hi! My name is <a href="https://twitter.com/charlesforman" target="_new">Charles Forman</a>. I love to make stuff I dream up. A while back, I founded a videogame company called OMGPOP that developed Draw Something, that sold to Zynga. Remember that? No? It's ok. I also co-founded <a href="https://picturelife.com/" target="_new">Picturelife</a>, a great place to store and organize all your private photos. I am originally from Chicago, and I've lived in Tokyo, Seoul, and New York City. I am currently living in NYC and I'm working on developing a movie.
+
+      <form action="http://setpixel.us7.list-manage1.com/subscribe/post-json?u=7f49e93b0826a30f8bbc98302&id=036dd8ccaa&c=?" method="get" name="formsidetop" class="validate" target="_blank" novalidate>
+      <input type="email" value="" name="EMAIL" class="required email" placeholder="Enter your email address...">
+      <input type="submit" value="Get updates" name="subscribe" id="mc-embedded-subscribe" class="button">
+      </form>  
+
+      I love getting <a href="mailto:charles@setpixel.com" target="_new">email</a>, and I'd love to get an email from you!
+      
+
+      <br/><br/>
+      <img src="/gfx/signature.png" style="position: relative; top: -25px; left: 150px;">
+    </span>
+
+    <span class="ride-side invisible-1130">
+      <div class="center" style="right: 20px; position: absolute; bottom: 20px;">
+      <span class="time"></span>
+        <div style="">
+          <a class="share-button popup twitter" style="top: 1px;"><i class="icon-twitter" style="font-size: 13px;"></i></a>
+          <a class="share-button popup facebook" style="top: 2px;"><i class="icon-facebook-squared" style="font-size: 18px; top: 2px; position: relative;"></i></a>
+        </div>
+        <form action="http://setpixel.us7.list-manage1.com/subscribe/post-json?u=7f49e93b0826a30f8bbc98302&id=036dd8ccaa&c=?" method="get" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+          <input type="email" value="" name="EMAIL" class="required email" placeholder="Enter your email address...">
+          <input type="submit" value="Get updates" name="subscribe" id="mc-embedded-subscribe" class="button">
+        </form>  
+      </div>
+    </span>
+
+    <span class="share-tooltip">
+    <div class="share-tooltip-nub"></div>
+      <a class="share-button popup twitter" style="top: 1px;"><i class="icon-twitter" style="font-size: 13px;"></i></a>
+      <a class="share-button popup facebook" style="top: 2px;"><i class="icon-facebook-squared" style="font-size: 18px; top: 2px; position: relative;"></i></a>
+    </span>
+
+    <div class="visible-768 mobile-share">
+      <a class="share-button popup twitter" style="top: 1px;"><i class="icon-twitter" style="font-size: 13px;"></i></a>
+      <a class="share-button popup facebook" style="top: 2px;"><i class="icon-facebook-squared" style="font-size: 18px; top: 2px; position: relative;"></i></a>
+    </div>
+
+    <div class="visible-768 mobile-share">
+        <p>I'd love to send you an email update when I write a new article once every couple months.</p>
+        <form action="http://setpixel.us7.list-manage1.com/subscribe/post-json?u=7f49e93b0826a30f8bbc98302&id=036dd8ccaa&c=?" method="get" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+          <input type="email" value="" name="EMAIL" class="required email" placeholder="Enter your email address...">
+          <input type="submit" value="Get updates" name="subscribe" id="mc-embedded-subscribe" class="button">
+        </form>  
+    </div>
+
+    <div class="invisible-768 fbcomments">
+    {% if page.fb-comment-url %}
+      <div class="fb-comments" data-href="{{ page.fb-comment-url }}" data-width="570" data-numposts="10" data-colorscheme="light"></div>
+    {% else %}
+      <div class="fb-comments" data-href="http://setpixel.com{{ page.url }}/" data-width="570" data-numposts="10" data-colorscheme="light"></div>
+    {% endif %}
+    </div>
+  </div>
+</div>
+
+<section class="bottom-section">
+  <div class="container">
+    <p>If you liked this article, you'll love these other great articles:</p>
+
+    {% assign postcount = 0 %}
+    {% for post in site.related_posts %}
+      {% if post.inindex != false and postcount <= 5 %}
+        {% assign postcount = postcount | plus: 1 %}
+        {% if postcount == 1 or postcount == 3 or postcount == 5 or postcount == 7 or postcount == 9 or postcount == 11 %}
+          <div class="row"><div class="col-sm-6">
+        {% else %}
+          <div class="col-sm-6">
+        {% endif %}
+        <a href="{{ post.url }}">
+          <div class="more-image">
+            <div class="image" style="background-image: url(/gfx/{{ post.bigimage }}-small.jpg);"></div>
+            <div class="shade"></div>
+            <div class="container">
+              <div class="more-image-cover">
+                <div class="ddd" style="max-width: 600px; padding-right: 30px;">
+                  <h3 itemprop="name" name="title" class="post-title">{{ post.title }}</h3>
+                  <h4 name="subtitle" class="post-field subtitle post-subtitle">{{ post.subtitle }}</h4>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+        {% if postcount == 1 or postcount == 3 or postcount == 5 or postcount == 7 or postcount == 9 or postcount == 11 %}
+          </div>
+        {% else %}
+          </div></div>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    <div class="footer">
+      <p>&copy; Charles Forman 2014</p>
+    </div>
+  </div>
+</section>
+
+<script>
+  var articleTitle = '{{ page.title }}';
+  var articleURL = 'http://setpixel.com{{ page.url }}';
+  var articleImage = 'http://setpixel.com/gfx/{{ page.bigimage }}.jpg';
+  var articleSubtitle = '{{ page.subtitle }}';
+  var articleExcerpt = "{{ page.excerpt | strip_newlines | strip_html }}";
+</script>
