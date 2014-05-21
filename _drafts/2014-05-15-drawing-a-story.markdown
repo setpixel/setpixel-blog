@@ -3,9 +3,9 @@ layout: post
 title: "Drawing a story"
 subtitle: "Aren't visuals important in visual sotrytelling?"
 bigimage: writing1small
-date: 2014-04-15 12:00:00
+date: 2014-05-15 12:00:00
 categories: tools
-inindex: false
+inindex: true
 ---
 
 problem 
@@ -20,7 +20,29 @@ solution
 
 [less emphasis on testing]
 
-zoinks
+
+
+mainly used to develop the story
+
+minimum amount of information to get the the emotion out, to visualize
+
+the drawing has to have the meaning and the story of what youre trying to say
+
+pitching the story
+
+story reels
+
+application on live action
+
+storyboards can cut out a lot of unessecary work
+
+storyboarding for live action used for staging
+
+
+
+
+<figure class="image-large"><div class="video-wrapper"><iframe src="//www.youtube.com/embed/wiZt0JAfp7E?rel=0&amp;vq=hd720&amp;modestbranding=1&amp;showinfo=0&amp;autohide=1&amp;color=white&amp;autoplay=0&amp;controls=1&amp;loop=0" frameborder="0" allowfullscreen=""></iframe></div><figcaption class="image-caption">120 pages of printed rough draft.</figcaption></figure>
+
 
 Most creative processes are iterative. 
 
@@ -131,7 +153,7 @@ but sotryboards are 90% for you
 
 this will work for spec writers too
 
-
+<a href="http://www.amazon.com/gp/product/0812993012/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812993012&linkCode=as2&tag=setpixel-20&linkId=7XTUH65UT2RZ5GBH" target="_new">Creativity Inc. by Ed Catmull</a>
 
 Another key innovation occurred after a frustrated Pete Docter stopped by my office one day in 2002. What he really needed, he said, was the ability to splice together rough storyboards of a scene, time them out precisely, and then narrate over them in a Braintrust meeting, enabling him to convey the same enthusiasm and passion as he did in his initial live pitch and better approximating the desired end result: a film. I went to one of our software leaders, Michael Johnson, to see if he could put something together for Pete. Two weeks later, Michael came back with a prototype that would later become known as “Pitch Docter,” in homage to Pete. The basic problem Pitch Docter sought to solve is one I’ve mentioned before—that when a director first pitches a movie, he or she is basically acting it out like a piece of performance art. A pitch is dynamic. The director is able to look the audience in the eye, see how the various elements are playing, and adjust on the fly. This performance, though, is not the film, and when the story is put up on reels and forced to stand on its own, it frequently falls flat. Conventional pitching was good theater, in other words, but it didn’t begin to simulate a movie. Pitch Docter did that. Pitch Docter let artists seek criticism earlier, which is always better. It allowed those giving feedback to evaluate the material by simulating its presentation in film. Initially we didn’t know if the artists would accept this way of working—they had spent their careers working on paper, and if they were going to adopt this technology, they needed to discover and embrace it on their own. Soon, though, they saw its advantages. Since storyboards are frequently modified, having them on the computer simplified the process; the delivery of new versions to the team was as easy as a push of a button. As more artists adopted the tool, meanwhile, their requests for more features improved the tool itself. The software developers and the artists worked together to move the tools forward, and the model of how the artists did their work changed as the software evolved to meet their needs. This process was driven both by requests from artists and suggestions from programmers—a back and forth that came about because of the integration of technology and art. Michael’s team, known as the Moving Pictures Group, meanwhile, has become an example of the mindset we value—a mindset that doesn’t fear change. We apply this concept throughout the studio—software people rotate in and out of production. This way of doing things is responsive; it is nimble—and it makes us better.
 

@@ -2,7 +2,7 @@ timezone: America/New_York
 name: Charles Forman. Stuff I write down.
 url: http://www.setpixel.com
 markdown: redcarpet
-pygments: true
+highlighter: true
 permalink: /:categories/:title
 description: Stuff Charles Forman writes.
 author: Charles Forman
@@ -16,4 +16,4 @@ sitemap:
         - "/index.html"
     change_frequency_name: "change_frequency"
     priority_name: "priority"
-exclude: s3_website.yml
+exclude: [ s3_website.yml ]

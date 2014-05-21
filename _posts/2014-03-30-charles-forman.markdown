@@ -65,7 +65,26 @@ Surround yourself with people you wish you could be for a day
 Keep an enemies list
 God hates fat people
 Learn to cook
-Aging gracefully</pre>
+Aging gracefully
+Embarking on making a movie
+The feeling of the movie I want to make
+	influences
+Shooting on Film? (The film look?)
+Shooting with a really small team
+Shooting on Motorized Gimbals
+	tools
+	opposed to steadycams
+Shooting exclusively in 1.2
+Workflow ideas
+Budget
+Themes
+	the internal growth of the personal character
+	the unintended consequences of technology
+	privacy policy
+TESTS
+	Lighting with a hazer and projector
+		consistency?
+</pre>
 <figcaption class="image-caption">Blog topics I'll probably never get around to writing, unless you ask me to.</figcaption></figure>
 
 Technically, this blog was made using <a href="http://jekyllrb.com/" target="_new">Jekyll</a> and is hosted on Amazon S3, and Cloudfront. I deploy using the s3_website gem. After years of keeping blogs on Tumblr, I have happily made the switch, and Jekyll makes things super easy. 
