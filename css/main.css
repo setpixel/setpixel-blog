@@ -771,6 +771,29 @@ figcaption {
   text-align: right;
 }
 
+.longquote {
+  font-family: "proxima-nova";
+  font-weight: 200;
+  font-size: 22px;
+  line-height: 32px;
+  -webkit-font-smoothing: antialiased;
+  background: #f9f9f9;
+  border-left: 4px solid #ccc;
+  margin: 0 0 40px 0px;
+  padding: 20px;
+}
+
+.longquote p, .longquote p:first-child {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.longquote p:last-child {
+  margin-bottom: 0px;
+}
+
+
+
 blockquote {
   font-family: "proxima-nova";
   font-weight: 200;
