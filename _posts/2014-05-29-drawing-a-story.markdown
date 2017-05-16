@@ -3,18 +3,18 @@ layout: post
 title: "Drawing a story"
 subtitle: "Using storyboards and animatics as a story development tool"
 bigimage: drawingcover2
-date: 2014-05-29 12:00:00
+date: 2014-06-10 12:00:00
 categories: tools
-inindex: false
+inindex: true
 ---
 
-I've created Storyboard Fountain. It's an app that allows anyone to visualize a screenplay as fast they can draw stick figures. As you write a script, you can quickly visualize to test if a scene works. Create and show animatics to others. Storyboarding allows you to make your movie, without the cost of making a movie.
+I've created <a href="http://storyboardfountain.com/" target="_new">Storyboard Fountain</a>. It's an app that allows anyone to visualize a screenplay as fast they can draw stick figures. As you write a script, you can quickly visualize to test if a scene works. Create and show animatics to others. Storyboarding allows you to make your movie, without the cost of making a movie.
 
 Coming from the perspective of a software developer, a game developer, and someone that has built companies, developing a movie with a standard approach seems like a gigantic step backwards.
 
 <figure class="image-regular"><img data-width="646" data-height="429" class="img-responsive" src="/gfx/gamevmovie.png"><figcaption class="image-caption">Creative development process of Video Games vs. Movies.</figcaption></figure>
 
-In videogame development, you start development on day one. You are always iterating, collaborating with team members, testing it with your friends. Even after you release the game, you can still make it better by listening to feedback and issuing updates. At any point, you may learn new things in the process that will cause you to make a pivotal change the game for the better. Most of the time, this comes at a relatively low cost.
+In videogame development, you start development on day one. You are always iterating, collaborating with team members, testing it with your friends. Even after you release the game, you can still make it better by listening to feedback and issuing updates. At any point, you may learn new things in the process that will cause you to make a pivotal change for the better. Most of the time, this comes at a relatively low cost.
 
 In movie development, a writer develops the story in a relative vacuum. The story is validated by an extremely limited number of people. Production requires many people involved with disconnected schedules. The actual production window is short compared to the total production process. It is also the most expensive.
 
@@ -22,7 +22,7 @@ If you, your producer, your investors, and your mom thought your script was grea
 
 But does it suck? No one tells their friends their baby is ugly.
 
-I've been invited to a few screenings of movies before they are fully complete. Sometimes there is no music, or the edit is slightly rough. As I'm watching, I cant help but notice some of the problems, most of which have nothing to do with the fact that the edit is rough, and that there is no music. The story is bad. It is a bad movie. No amount of editing could save it. In every case, everyone in the private audience talks about how beautiful the ugly baby is. Do they not know how bad it is? How did it get this far?
+I've been invited to a few screenings of movies before they were fully complete. Sometimes there is no music, or the edit is slightly rough. As I'm watching, I cant help but notice some of the problems, most of which have nothing to do with the fact that the edit is rough, and that there is no music. The story is bad. It is a bad movie. No amount of editing could save it. In every case, everyone in the private audience talks about how beautiful the ugly baby is. Do they not know how bad it is? How did it get this far?
 
 This is my greatest fear.
 
@@ -30,7 +30,7 @@ Most creative processes are iterative.
 
 With videogame development, at any point along the way, I can iterate on the work. I can be dynamic. Yet, once the movie goes into production, the ability to iterate and the time window to do so is extremely limited. This is also the window that incurs the most cost and risk. Is there a way to mitigate this risk, while also making better work?
 
-I want a way to rapid-prototype my movie. I want to make my movie shot for shot before I even start thinking about production. The technical result of movie is more or less 90 minutes of sequential frames of images and some audio. If I sketch images for key moments in the movie in order, I can allow people to experience the movie. They can experience the story. If they can't, it's not because I didn't draw well enough—it's because the story is not good.
+I want a way to rapid-prototype my movie. I want to make my movie shot for shot before I even start thinking about production. The technical result of a movie is more or less 90 minutes of sequential frames of images and some audio. If I sketch images for key moments, in order, I can allow people to experience the movie. They can experience the story. If they can't, it's not because I didn't draw well enough—it's because the story is not good.
 
 I want to use storyboards to make the best possible story.
 
@@ -42,17 +42,17 @@ I can make a shot for shot version of the movie. I can complete it in little tim
 
 I bought a pen tablet display, the Wacom Cintiq 13, to draw my boards in Photoshop. Drawing and managing 1200 boards, the fewest number of shots in my movie, would take forever in Photoshop. I also wanted direct integration with my Fountain script. Having built drawing systems at least 4 times before, and having created a few Fountain visualization tools in Javascript, I felt pretty confident I could make a good storyboard tool from the ground up.
 
-<figure class="image-large"><div class="video-wrapper"><iframe src="//www.youtube.com/embed/G4Qi3yTqVNc?rel=0&amp;vq=hd720&amp;modestbranding=1&amp;showinfo=0&amp;autohide=1&amp;color=white&amp;autoplay=0&amp;controls=1&amp;loop=0" frameborder="0" allowfullscreen=""></iframe></div><figcaption class="image-caption">Demo of Storyboard Fountain in action.</figcaption></figure>
+<figure class="image-large"><div class="video-wrapper"><iframe src="//www.youtube.com/embed/g9rz0jaMhak?rel=0&amp;vq=hd720&amp;modestbranding=1&amp;showinfo=0&amp;autohide=1&amp;color=white&amp;autoplay=0&amp;controls=1&amp;loop=0" frameborder="0" allowfullscreen=""></iframe></div><figcaption class="image-caption">Demo of Storyboard Fountain in action.</figcaption></figure>
 
 ## How it works / Process
 
-Storyboard Fountain works with a Fountain screenplay file. Open it, and the entire script is displayed on the left of the file. Action, dialogue, and parenthetical lines are shown as elements, so you can create boards for every filmable line in the movie. In fact, you can have as many boards as you want per line, or even choose not to have a board, if it's not necessary. As you draw, each drawing tool you use is saved on its own layer. The images are saved in a folder next to your Fountain file on your hard drive. The reference to each board is saved in location in the Fountain file itself. As a result, you can use the Fountain editor of your choice to edit your script while maintaining integrity of the location of the storyboards. 
+Storyboard Fountain works with a Fountain screenplay file. Open it, and the entire script is displayed on the left of the file. Action, dialogue, and parenthetical lines are shown as elements, so you can create boards for every filmable line in the movie. In fact, you can have as many boards as you want per line, or even choose not to have a board, if it's not necessary. As you draw, each drawing tool you use is saved on its own layer. The images are saved in a folder next to your Fountain file on your hard drive. The reference to each board is saved in location in the Fountain file itself. As a result, you can use the Fountain editor of your choice to edit your script while maintaining the integrity of the location of the storyboards. 
 
 ### 1. Sketching out scenes from script
 
 Once you want to start visualizing the script, just go through a scene and start adding boards as you would imagine shooting the movie. Use the arrow keys, and press the "N" key to create boards. You can use a visualizer color (the pastel blues) to sketch out the shots with stick figures. Draw the least amount of information to get the the emotion out, to visualize the action. Step through the scene to see how well it's working. With even a couple boards, you can start to see a scene working.
 
-If you rough out a scene at a time, you can board a feature length movie in little time. At about 1 minute per board, it should take less than 20 hours. You can copy and paste boards which is an easy way to reuse shots and make small changes.
+If you rough out a scene at a time, you can board a feature length movie in little time. At about 1 minute per board, it should take less than 20 hours. You can copy and paste boards, which is an easy way to reuse shots and make small changes.
 
 ### 2. Going back and fleshing it out
 
@@ -136,8 +136,6 @@ This was amazing — and not amazing like a white girl describes her kale salad.
 
 <figure class="image-regular"><div class="video-wrapper"><iframe src="//www.youtube.com/embed/EOI0wDqc5Bg?rel=0&amp;vq=hd720&amp;modestbranding=1&amp;showinfo=0&amp;autohide=1&amp;color=white&amp;autoplay=0&amp;controls=1&amp;loop=0&start=4&end=321" frameborder="0" allowfullscreen=""></iframe></div><figcaption class="image-caption">Kelsey Mann pitching the first scene of Monsters University using Pitch Docter.</figcaption></figure>
 
-<figure class="image-regular"><div class="video-wrapper"><iframe src="//www.youtube.com/embed/XO98i7aGgd8?rel=0&vq=hd720&modestbranding=1&showinfo=0&autohide=1&color=white&autoplay=0&controls=1&loop=0" frameborder="0" allowfullscreen=""></iframe></div><figcaption class="image-caption">Pixar artists using Pitch Docter to storyboard Monsters University.</figcaption></figure>
-
 The crazy thing is, Pitch Docter looks like what I've been building! I immediately bought Creativity, Inc. and read the whole thing in one sitting. I wish live action movies took a similar approach to the way Pixar thinks about story development.
 
 ## This process can cut production costs
@@ -156,6 +154,4 @@ The value here is in improving the creative process, not the new tool itself.
 
 This tool is a fancy way to organize sketches. Being excited about this tool, is like being excited about a notebook, instead of being excited about all the great ideas you're going to write in it. I'm excited to build a tool to help a better process, and ultimately make better work.
 
-### Open source
-
-Storyboard Fountain is open source. You can check it out on <a href="https://github.com/setpixel/storyboard-fountain" target="_new">https://github.com/setpixel/storyboard-fountain</a>. You can download the app and use it with little cost. The cost is: please email me after using it. I want to make the best tool possible, and your feedback lets me know what I can do to make it better.
+Please download: <a href="http://storyboardfountain.com/" target="_new">Storyboard Fountain</a> and check it out. It is also open source on: <a href="https://github.com/setpixel/storyboard-fountain" target="_new">GitHub</a>. Please email me us feedback! We want to make the best tool possible, and your feedback lets us know how to make it better.

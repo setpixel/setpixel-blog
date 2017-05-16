@@ -1,0 +1,89 @@
+# Writing a board driven screenplay?
+
+
+
+
+# Designing the best possible workspace
+
+I'm writing a board driven screenplay. I am writing with a board artist. The current workspace setup is less than ideal. In my tiny New York apartment, my board artist sits at a medium sized Ikea desk with a Mac Pro and Wacom Cintiq. I sit next to him on a large Rubbermaid bin with a sofa cushion on top because I don't have 2 office chairs.
+
+Rather than buying another office chair, I've started fantasizing about the perfect workspace for what I'm doing. If I had all the money, space, time, and engineering ability in the world to solve for the best space I need right now, what would that space look like? 
+
+The space where I work has an impact on my creativity and performance. The more I work in certain mode, the more I see inefficiencies in the space. I've worked in spaces where it was not only not ideal, but also detrimental to work.
+
+Unfortunately, the modes of what I do tends to change over time. My processes change. The people I work with change. The number of people I work with change. All these things have a material effect on how effective the space is. Rather than design for the problems I might have in the future, I want to focus on the problem I have now.
+
+### Collaborative work environment
+
+Ability to work with multiple people
+
+
+
+### Size
+
+I don't like large spaces. I want my space to be just large enough. I have friends who have massive workspaces. Every time you need to do a different thing, its a physical chore. I want everything in my environment to be at arms length from me. I want my space to be a physical extension of myself.
+
+I also need space big enough for 2 people. I also like to get up and pace when I think. 
+I like to pace.
+rooms for modes? modular rooms?
+
+### Noise
+
+My apartment is on a quiet street in Soho and overlooks a graveyard. In my experience, the neighbors never make any noise. While there is very little audible noise, there is noise that fills my workday that interrupts my flow, and forces me to switch contexts.
+
+Externally it comes in the form of phones buzzing, text messages, emails. I silence my iPhone. I also kill the vibration in the notifications. Even if someone calls, I will only know if I am looking at the phone. I turn off notification center on my Mac. 
+
+There is also visual noise that comes from the reflection of my desktop monitor. Why do monitors have reflective glass? Dear Apple, I know it looks like a nice shiny product, but, ya dumb. You can buy replacement faceplates for iMacs and Apple displays. I use a Dell Monitor for my Mac Pro. It's matte. 
+
+On my desktop computers, I only have one monitor. 2 monitors create fragmentation and visual noise. I think there are exceptions to this, but rare enough to be unwarranted for me.
+
+Internally, noise comes in the from random questions I have that can quickly be answered by asking the internet. What happened to that kid from Who's the Boss? If I don't find out now, I'll be wondering about it for the rest of the day. 1 hour later, I am fully caught up on it. I am also caught up on Punky Brewster with some open questions, but I'll research them later.
+
+### Collaboration
+
+Creative collaboration with another person or set of people can multiply the quality of work if you are working with the right people. In the context of space, I think about this a lot, because I like being next to people, but then I like being alone sometimes. With my board artist, when we are working solo, we can still do it without having to be in separate rooms. 
+
+#### Collaboration software
+
+He draws, I write. I draw, he watches. He draws, I watch. He rearranges, I rearrange. We are working on the same thing, but doing different things. Currently, we are working with software I wrote to storyboard and write this movie. It does not have real-time collaboration. We are always working on 2 different versions of the same script, and merging them at the end of the day. We always have to work on different parts of the script as a result. I am sure we have lost work. It is extremely annoying.
+
+I really wish we could work on the same script, in the same location, at the same time, with no hassle. This is of course technically possible but non-trivial. However, it has gone from being a feature low on the priority list to very high.
+
+To paint a picture of how this would work: The script and storyboard files would be stored on a shared Dropbox folder. If someone else had that file open, the application would show that someone else was working on it, and where they were on the script. Everything they did would automatically update on all the other clients. You could follow that person. So if I was writing, the board artist could watch me write and follow along. If I wanted to follow him drawing, I could watch as he draws and flips through boards. We could draw on the same canvas at the same time.
+
+### Workspace Recording
+
+Working on a creative project with multiple people generate great conversations. Most of these conversations result in productive changes in the project. But the record of these conversations evaporate into the ether. Sometimes, there are really interesting ideas and questions brought up, but can't be addressed at the time. I'd really love to go back in time and listen to those ideas - maybe even resume the conversation.
+
+I want to create a persistent piece of software on a dedicated device that always records the audio in the workspace. At any point, I can tell the system: "Hey. What was that last thing I said?" And the system would play it back like magic. It would also send me a message on Slack with the transcription of what was said. 
+
+I could also tell it: 
+"Play the beginning of this conversation."
+"Play about 10 minutes ago."
+"No. Play the conversation before this."
+"What did I say at 12:13pm?"
+
+
+
+
+
+### Lighting
+
+
+
+Collaborative work environment
+
+The 
+
+wall projections
+
+data should feel maleable
+
+many different views
+
+BIG Displays
+
+Theatre
+
+Collaborative software
+
